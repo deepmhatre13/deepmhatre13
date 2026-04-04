@@ -5,8 +5,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-deepmhatre13-181717?style=for-the-badge&logo=github)](https://github.com/deepmhatre13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Aiverse-Live-5d9e72?style=for-the-badge&logo=vercel)](https://aiverse-pink.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepam-mhatre/)
+[![Portfolio](https://img.shields.io/badge/Aiverse-Live-5d9e72?style=for-the-badge&logo=vercel)](https://aiverse-webai.vercel.app)
 
 </div>
 
@@ -115,11 +115,6 @@ A full-stack platform that bridges the gap between learning ML and shipping it. 
 
 ---
 
-## Philosophy
-```
-Don't just build features.
-Build systems that evolve.
-```
 
 ---
 
