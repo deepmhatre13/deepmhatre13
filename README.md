@@ -7,7 +7,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-deepmhatre13-181717?style=for-the-badge&logo=github)](https://github.com/deepmhatre13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepam-mhatre/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-5d9e72?style=for-the-badge&logo=vercel)](https://aiverse-webai.vercel.app)
 
 </div>
 
@@ -76,6 +75,7 @@ Electronics & Telecommunication Engineering student passionate about **Backend E
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepmhatre13&theme=github-dark&hide_border=true" />
 </p>
+
 ---
 
 <div align="center">
