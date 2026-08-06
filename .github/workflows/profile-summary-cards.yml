@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate profile summary cards
@@ -26,5 +26,5 @@ jobs:
       - name: Commit generated cards
         uses: EndBug/add-and-commit@v9
         with:
-          add: "profile-summary-card-output"
+          add: profile-summary-card-output
           message: "docs: update profile summary cards"
