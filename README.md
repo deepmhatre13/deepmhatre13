@@ -70,19 +70,22 @@ Electronics & Telecommunication Engineering student passionate about **Backend E
 </p>
 
 <p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/deepmhatre13/deepmhatre13/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=deepmhatre13&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/deepmhatre13/deepmhatre13/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
   <img width="49%" src="https://raw.githubusercontent.com/deepmhatre13/deepmhatre13/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/deepmhatre13/deepmhatre13/main/profile-summary-card-output/github_dark/3-stats.svg" />
   <img width="49%" src="https://raw.githubusercontent.com/deepmhatre13/deepmhatre13/main/profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepmhatre13&theme=github-dark&hide_border=true"/>
 </p>
-
 ---
 
 <div align="center">
